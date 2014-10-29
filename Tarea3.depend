@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1414592967 source:/home/alumno/Proyectos/Tarea3/main.cpp
+	<iostream>
+	<string>
+
+1414592679 source:/home/alumno/Proyectos/Tarea3/src/Evaluar.cpp
+
