@@ -80,6 +80,7 @@ public:
 
 int main()
 {
+	//Metodo para probar la funcionalidad del Programa
 
 Gato p = Gato("gege",15);
 		p.setNombre("Puky");
